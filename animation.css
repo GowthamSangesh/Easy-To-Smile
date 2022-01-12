@@ -1,0 +1,30 @@
+.new{
+    animation:gowtham;
+    animation-duration:4s;
+    animation-iteration-count:infinite;
+}
+
+@keyframes gowtham {
+    0%{
+        color:rgb(105, 33, 5);    
+    }
+    
+    25%
+    {
+        color:rgb(211, 29, 29);
+    }
+    50%
+    {
+       color:rgb(43, 55, 219);
+
+    }
+    75%
+    {
+       color:rgb(61, 99, 0);
+
+    }
+    100%
+    {
+          color:rgb(90, 0, 50);
+    }
+}
